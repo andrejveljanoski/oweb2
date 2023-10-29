@@ -1,0 +1,26 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-image: url(pizza.jpg);
+}
+.table {
+  background-color: aliceblue;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: medium;
+  border: 1px;
+  padding: auto;
+}
+th {
+  font-weight: 500;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+tr {
+  border: 10px;
+  border-color: black;
+}
+.input {
+  background-color: antiquewhite;
+  font-size: medium;
+  font-weight: 300;
+}
